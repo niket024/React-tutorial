@@ -1,0 +1,9 @@
+.demoForm {
+	width: 500px;
+	margin: auto;
+    background-color: cornflowerblue;
+}
+
+.inputStyle{
+    width: 50% !important;
+}
